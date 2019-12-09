@@ -1,6 +1,6 @@
 package pruebaDAW;
 
-public class prueba {
+public class Prueba {
 //	probando
 	
 	
